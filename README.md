@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @luisfelipesantofimio
 - 👀 I’m interested in software development, research, scientific psychology and self-studying
-- 🌱 I’m currently learning Vue with Typescript, about Flutter 💙 every single day and interested on learning Go.
